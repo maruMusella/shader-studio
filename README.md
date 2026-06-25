@@ -4,7 +4,7 @@ Convertí cualquier imagen en arte con shaders, en tiempo real y desde el navega
 Una sola página HTML, sin dependencias ni instalación: cargás una imagen, elegís un
 estilo y exportás el resultado en PNG a resolución completa.
 
-> **[▶ Abrir la demo](https://USUARIO.github.io/shader-studio/)** — (activá GitHub Pages para que este link funcione)
+> **[▶ Abrir la demo](https://marumusella.github.io/shader-studio/)**
 
 ## Cómo se usa
 
